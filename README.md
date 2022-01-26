@@ -1,6 +1,4 @@
-<p>
-Taken from <a href="https://github.com/abhat222/Data-Science--Cheat-Sheet"><strong>Link to original GitHub page</strong></a>
-</p>
+
  
 # Data Science Cheatsheets
 
